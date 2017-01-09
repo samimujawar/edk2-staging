@@ -21,7 +21,7 @@
 #include <ArmPlatform.h>
 
 // Number of Virtual Memory Map Descriptors
-#define MAX_VIRTUAL_MEMORY_MAP_DESCRIPTORS          8
+#define MAX_VIRTUAL_MEMORY_MAP_DESCRIPTORS          9
 
 // DDR attributes
 #define DDR_ATTRIBUTES_CACHED   ARM_MEMORY_REGION_ATTRIBUTE_WRITE_BACK
