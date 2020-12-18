@@ -98,6 +98,12 @@
   AArch64/CompareMem.S
   AArch64/CompareGuid.S
 
+  AArch64/CompareGuid.asm |MSFT
+  AArch64/CompareMem.asm  |MSFT
+  AArch64/CopyMem.asm     |MSFT
+  AArch64/ScanMem.asm     |MSFT
+  AArch64/SetMem.asm      |MSFT
+
 [Sources.ARM, Sources.AARCH64]
   Arm/ScanMemGeneric.c
   Arm/MemLibGuid.c
